@@ -22,6 +22,7 @@ Tecnologias:
 	<img src ="./search_newsdroid.gif" alt="demo-splash" height="410">
 	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="410">
 </div>
+<hr>
 Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
 
 <p><br></p>
