@@ -2,15 +2,6 @@
 
 Newsdroid, aplicação Android para visualização de notícias.
 
-Tecnologias:
-<ul>
-  <li>Android Studio</li>
-  <li>Java</li>
-  <li>News API</li>
-  <li>Lottie</li>
-  <li>Retrofit</li>
-  <li>Glide</li>
-</ul>
 <hr>
 <div align="center" >
 	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="410">
@@ -23,6 +14,17 @@ Tecnologias:
 	<img src ="./search_newsdroid.gif" alt="demo-splash" height="410">
 	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="410">
 </div>
+<hr>
+
+Tecnologias:
+<ul>
+  <li>Android Studio</li>
+  <li>Java</li>
+  <li>News API</li>
+  <li>Lottie</li>
+  <li>Retrofit</li>
+  <li>Glide</li>
+</ul>
 <hr>
 
 Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
