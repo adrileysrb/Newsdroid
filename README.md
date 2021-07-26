@@ -1,5 +1,6 @@
 # Newsdroid
 Newsdroid, aplicação Android para visualização de notícias.
+
 Tecnologias:
 <ul>
   <li>Android Studio</li>
