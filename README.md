@@ -2,7 +2,7 @@
 Newsdroid, aplicação Android para visualização de notícias.
 
 <h1 align="center">
-	<img src ="./logo.gif" alt="demo-splash" height="120">
+	<img src ="./logo.gif" alt="demo-splash" height="320">
 	<br>
 	Newsdroid</h1>
 
