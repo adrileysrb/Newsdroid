@@ -16,6 +16,7 @@ Tecnologias:
 	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="425">
 	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="425">
 	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="425">
+	<img src ="./search_newsdroid.gif" alt="demo-splash" height="425">
 </div>
 Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
 
