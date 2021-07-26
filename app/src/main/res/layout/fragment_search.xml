@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".view.SearchFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerViewSearch"/>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_marginTop="?attr/actionBarSize"
+        android:id="@+id/lotieSearch"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        app:lottie_rawRes="@raw/search_2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_marginTop="?attr/actionBarSize"
+        android:id="@+id/lotieSearch2"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true"
+        android:layout_gravity="center"
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        app:lottie_rawRes="@raw/option1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</FrameLayout>

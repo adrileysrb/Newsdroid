@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_2"
+    tools:context=".view.SelectionActivity">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/textView2"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:lottie_autoPlay="true"
+        app:lottie_rawRes="@raw/newsdroid" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroup"
+        android:layout_width="match_parent"
+        android:layout_height="288dp"
+        android:layout_marginStart="8dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:layout_constraintVertical_bias="0.108">
+
+
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:id="@+id/esportes_chip"
+            android:layout_height="50dp"
+            app:chipIcon="@drawable/ic_baseline_sports_football_24"
+            android:text="Esportes"/>
+
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:id="@+id/politica_chip"
+            android:text="Politica"
+            app:chipIcon="@drawable/account_supervisor" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:id="@+id/saude_chip"
+            android:text="Saúde"
+            app:chipIcon="@drawable/ic_baseline_healing_24" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Jogos"
+            android:id="@+id/jogos_chip"
+            app:chipIcon="@drawable/ic_baseline_videogame_asset_24" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Empreendedorismo"
+            android:id="@+id/empreendedorismo_chip"
+            app:chipIcon="@drawable/ic_baseline_business_center_24" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="E-Sports"
+            android:id="@+id/esports_chip"
+            app:chipIcon="@drawable/ic_baseline_games_24" />
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Humor"
+            android:id="@+id/humor_chip"
+            app:chipIcon="@drawable/ic_baseline_sentiment_very_satisfied_24" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Tecnologia"
+            android:id="@+id/tecnologia_chip"
+            app:chipIcon="@drawable/cellphone" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Cinema"
+            android:id="@+id/cinema_chip"
+            app:chipIcon="@drawable/ic_baseline_local_movies_24" />
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Celebridades"
+            android:id="@+id/celebridades_chip"
+            app:chipIcon="@drawable/star_outline" />
+
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Futebol"
+            android:id="@+id/futebol_chip"
+            app:chipIcon="@drawable/soccer" />
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Viagem"
+            android:id="@+id/viagem_chip"
+            app:chipIcon="@drawable/ic_baseline_card_travel_24" />
+
+        <com.google.android.material.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Ciência"
+            android:id="@+id/ciencia_chip"
+            app:chipIcon="@drawable/flask_outline" />
+
+
+    </com.google.android.material.chip.ChipGroup>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/materialButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Salvar"
+        app:cornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chipGroup"
+        app:layout_constraintVertical_bias="0.927"
+        tools:layout_editor_absoluteX="8dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
