@@ -1,5 +1,7 @@
-# Newsdroid
+<b align="center">Newsdroid</b>
 Newsdroid, aplicação Android para visualização de notícias.
+
+<h1 align="center">Newsdroid</h1>
 
 Tecnologias:
 <ul>
@@ -10,84 +12,18 @@ Tecnologias:
   <li>Retrofit</li>
   <li>Glide</li>
 </ul>
-
-<div align="center">
-	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="425">
-	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="425">
-	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="425">
-	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="425">
-	<img src ="./search_newsdroid.gif" alt="demo-splash" height="425">
+<hr>
+<div align="center" >
+	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="410">
 </div>
+<hr>
+<div align="center">
+	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./search_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="410">
+</div>
+<hr>
+
 Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
-
-<p><br></p>
-Screenshots:
-
-<p><br></p>
-<figure>
-	<img src="screenshot-00.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<figure>
-	<img src="screenshot-01.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-02.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-03.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-04.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-05.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-06.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-07.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-08.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-09.png" width="265" height="440" />
-</figure>
-  <p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-10.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-11.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-1.png" width="265" height="440" />
-</figure>
-<p><br></p>
-<p><br></p>
-<figure>
-	<img src="screenshot-13.png" width="265" height="440" />
-</figure>
