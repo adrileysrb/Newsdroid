@@ -14,9 +14,7 @@ Tecnologias:
 <div align="center">
 	<hr>
 	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="445">
-	
 	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="445">
-	
 	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="445">
 	<hr>
 	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="445">
