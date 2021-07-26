@@ -15,6 +15,11 @@ Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_ch
 
 <p><br></p>
 Screenshots:
+
+<p><br></p>
+<figure>
+	<img src="screenshot-00.png" width="265" height="440" />
+</figure>
 <p><br></p>
 <figure>
 	<img src="screenshot-01.png" width="265" height="440" />
