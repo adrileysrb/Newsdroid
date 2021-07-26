@@ -1,13 +1,7 @@
 <b align="center">Newsdroid</b>
 Newsdroid, aplicação Android para visualização de notícias.
 
-<h1 align="center">
-<br>
-	
-	<br>
-	<br>
-	Newsdroid
-	</h1>
+<h1 align="center">Newsdroid</h1>
 
 Tecnologias:
 <ul>
