@@ -1,4 +1,4 @@
-<p align="center">#Newsdroid</p>
+<b align="center">Newsdroid</b>
 Newsdroid, aplicação Android para visualização de notícias.
 
 Tecnologias:
