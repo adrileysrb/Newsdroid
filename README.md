@@ -1,4 +1,4 @@
-# NewsApp
+# Newsdroid
 Newsdroid, aplicação Android para visualização de notícias.
 Tecnologias:
 <ul>
@@ -9,6 +9,8 @@ Tecnologias:
   <li>Retrofit</li>
   <li>Glide</li>
 </ul>
+
+Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
 
 <p><br></p>
 Screenshots:
