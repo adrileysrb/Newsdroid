@@ -12,14 +12,12 @@ Tecnologias:
 </ul>
 
 <div align="center">
-	<hr>
-	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="445">
-	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="445">
-	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="445">
-	<hr>
-	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="445">
-	<img src ="./search_newsdroid.gif" alt="demo-splash" height="445">
-	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="445">
+	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="350">
+	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="350">
+	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="350">
+	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="350">
+	<img src ="./search_newsdroid.gif" alt="demo-splash" height="350">
+	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="350">
 </div>
 Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
 
