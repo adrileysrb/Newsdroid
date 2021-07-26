@@ -17,65 +17,65 @@ Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_ch
 Screenshots:
 <p><br></p>
 <figure>
-	<img src="Screenshot_01.png" width="265" height="440" />
+	<img src="Screenshot-01.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_02.png" width="265" height="440" />
+	<img src="Screenshot-02.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_03.png" width="265" height="440" />
+	<img src="Screenshot-03.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_04.png" width="265" height="440" />
+	<img src="Screenshot-04.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_05.png" width="265" height="440" />
+	<img src="Screenshot-05.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_06.png" width="265" height="440" />
+	<img src="Screenshot-06.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_07.png" width="265" height="440" />
+	<img src="Screenshot-07.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_08.png" width="265" height="440" />
+	<img src="Screenshot-08.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_09.png" width="265" height="440" />
+	<img src="Screenshot-09.png" width="265" height="440" />
 </figure>
   <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_10.png" width="265" height="440" />
+	<img src="Screenshot-10.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_11.png" width="265" height="440" />
+	<img src="Screenshot-11.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_1.png" width="265" height="440" />
+	<img src="Screenshot-1.png" width="265" height="440" />
 </figure>
 <p><br></p>
 <p><br></p>
 <figure>
-	<img src="Screenshot_13.png" width="265" height="440" />
+	<img src="Screenshot-13.png" width="265" height="440" />
 </figure>
