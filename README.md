@@ -10,14 +10,17 @@ Tecnologias:
   <li>Retrofit</li>
   <li>Glide</li>
 </ul>
-
+<hr>
+<div align="center" >
+	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="410">
+</div>
+<hr>
 <div align="center">
-	<img src ="./splash_newsdroid.gif" alt="demo-splash" height="400">
-	<img src ="./chips_newsdroid.gif" alt="demo-splash" height="400">
-	<img src ="./tabs_newsdroid.gif" alt="demo-splash" height="400">
-	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="400">
-	<img src ="./search_newsdroid.gif" alt="demo-splash" height="400">
-	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="400">
+	<img src ="./dark_theme_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./search_newsdroid.gif" alt="demo-splash" height="410">
+	<img src ="./new_view_newsdroid.gif" alt="demo-splash" height="410">
 </div>
 Link demonstração em vídeo: https://www.youtube.com/watch?v=1dMh8LGZPuY&ab_channel=AdrileySamuel
 
