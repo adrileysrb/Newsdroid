@@ -1,6 +1,6 @@
 <h1 align="center">Newsdroid</h1>
 
-<h4 align="center">Aplicação Android para visualização de notícias, com opção de escolha de tópicos de noticia pelo usuário e pesquisa por palavra-chave</h4>
+<h4 align="center">Aplicação Android para visualização de notícias, com opção de escolha de tópicos de noticia pelo usuário e pesquisa por palavra-chave.</h4>
 
 <hr>
 <div align="center" >
